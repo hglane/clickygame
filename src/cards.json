@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Royals",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Kansas_City_Royals.svg/1200px-Kansas_City_Royals.svg.png",
+        "location": "Kansas City"
+    },
+    {
+        "id": 2,
+        "name": "Cardinals",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/St._Louis_Cardinals_logo.svg/1200px-St._Louis_Cardinals_logo.svg.png",
+        "location": "St. Louis"
+    },
+    {
+        "id": 3,
+        "name": "Braves",
+        "image": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fmlb%2F500%2Fatl.png",
+        "location": "Atlanta"
+    },
+    {
+        "id": 4,
+        "name": "Nationals",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Washington_Nationals_logo.svg/1200px-Washington_Nationals_logo.svg.png",
+        "location": "Washington D.C."
+    },
+    {
+        "id": 5,
+        "name": "Rays",
+        "image": "https://ballparkdigest.com/wp-content/uploads/2014/10/Tampa_Bay_Rays.png",
+        "location": "Tampa Bay"
+    },
+    {
+        "id": 6,
+        "name": "Rangers",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Texas_Rangers.svg/1200px-Texas_Rangers.svg.png",
+        "location": "Texas"
+    },
+    {
+        "id": 7,
+        "name": "Angels",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Los_Angeles_Angels_of_Anaheim.svg/1200px-Los_Angeles_Angels_of_Anaheim.svg.png",
+        "location": "Los Angeles"
+    },
+    {
+        "id": 8,
+        "name": "Dodgers",
+        "image": "https://s3-us-west-2.amazonaws.com/theathletic-team-logos/team-logo-106-300x300.png",
+        "location": "Los Angeles"
+    },
+    {
+        "id": 9,
+        "name": "Red Sox",
+        "image": "https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fi.forbesimg.com%2Fmedia%2Flists%2Fteams%2Fboston-red-sox_416x416.jpg",
+        "location": "Boston"
+    },
+    {
+        "id": 10,
+        "name": "Tigers",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Detroit_Tigers_logo.svg/1200px-Detroit_Tigers_logo.svg.png",
+        "location": "Detroit"
+    },
+    {
+        "id": 11,
+        "name": "Cubs",
+        "image": "https://cdn.bleacherreport.net/images/team_logos/328x328/chicago_cubs.png",
+        "location": "Chicago"
+    },
+    {
+        "id": 12,
+        "name": "Yankees",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/NewYorkYankees_PrimaryLogo.svg/1200px-NewYorkYankees_PrimaryLogo.svg.png",
+        "location": "New York"
+    }
+]
