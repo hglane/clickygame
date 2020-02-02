@@ -23,7 +23,7 @@
 }
 
 .img-thumbnail:hover {
-    background-color: red;
+    background-color: grey;
     opacity: 0.5;
 }
 
