@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "//github.com/hglane/clickygame/static/css/main.07f8b1f4.chunk.css",
-    "main.js": "//github.com/hglane/clickygame/static/js/main.cbaf3e36.chunk.js",
-    "main.js.map": "//github.com/hglane/clickygame/static/js/main.cbaf3e36.chunk.js.map",
-    "runtime-main.js": "//github.com/hglane/clickygame/static/js/runtime-main.06585dc8.js",
-    "runtime-main.js.map": "//github.com/hglane/clickygame/static/js/runtime-main.06585dc8.js.map",
-    "static/js/2.2a2324dd.chunk.js": "//github.com/hglane/clickygame/static/js/2.2a2324dd.chunk.js",
-    "static/js/2.2a2324dd.chunk.js.map": "//github.com/hglane/clickygame/static/js/2.2a2324dd.chunk.js.map",
-    "index.html": "//github.com/hglane/clickygame/index.html",
-    "precache-manifest.233f009a867875da51ce367402f3de9e.js": "//github.com/hglane/clickygame/precache-manifest.233f009a867875da51ce367402f3de9e.js",
-    "service-worker.js": "//github.com/hglane/clickygame/service-worker.js",
-    "static/css/main.07f8b1f4.chunk.css.map": "//github.com/hglane/clickygame/static/css/main.07f8b1f4.chunk.css.map",
-    "static/js/2.2a2324dd.chunk.js.LICENSE.txt": "//github.com/hglane/clickygame/static/js/2.2a2324dd.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "//github.com/hglane/clickygame/static/media/logo.5d5d9eef.svg"
+    "main.css": "/hglane/clickygame/static/css/main.ad82b1ae.chunk.css",
+    "main.js": "/hglane/clickygame/static/js/main.51ecffcf.chunk.js",
+    "main.js.map": "/hglane/clickygame/static/js/main.51ecffcf.chunk.js.map",
+    "runtime-main.js": "/hglane/clickygame/static/js/runtime-main.6e67971b.js",
+    "runtime-main.js.map": "/hglane/clickygame/static/js/runtime-main.6e67971b.js.map",
+    "static/js/2.2a2324dd.chunk.js": "/hglane/clickygame/static/js/2.2a2324dd.chunk.js",
+    "static/js/2.2a2324dd.chunk.js.map": "/hglane/clickygame/static/js/2.2a2324dd.chunk.js.map",
+    "index.html": "/hglane/clickygame/index.html",
+    "precache-manifest.3b3fb560621a0334f9f724d31ff27c06.js": "/hglane/clickygame/precache-manifest.3b3fb560621a0334f9f724d31ff27c06.js",
+    "service-worker.js": "/hglane/clickygame/service-worker.js",
+    "static/css/main.ad82b1ae.chunk.css.map": "/hglane/clickygame/static/css/main.ad82b1ae.chunk.css.map",
+    "static/js/2.2a2324dd.chunk.js.LICENSE.txt": "/hglane/clickygame/static/js/2.2a2324dd.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/hglane/clickygame/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.06585dc8.js",
+    "static/js/runtime-main.6e67971b.js",
     "static/js/2.2a2324dd.chunk.js",
-    "static/css/main.07f8b1f4.chunk.css",
-    "static/js/main.cbaf3e36.chunk.js"
+    "static/css/main.ad82b1ae.chunk.css",
+    "static/js/main.51ecffcf.chunk.js"
   ]
 }
